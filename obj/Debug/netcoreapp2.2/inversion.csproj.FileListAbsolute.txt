@@ -1,0 +1,11 @@
+/Users/mo/workspace/csharp/inversion/bin/Debug/netcoreapp2.2/inversion.deps.json
+/Users/mo/workspace/csharp/inversion/bin/Debug/netcoreapp2.2/inversion.runtimeconfig.json
+/Users/mo/workspace/csharp/inversion/bin/Debug/netcoreapp2.2/inversion.runtimeconfig.dev.json
+/Users/mo/workspace/csharp/inversion/bin/Debug/netcoreapp2.2/inversion.dll
+/Users/mo/workspace/csharp/inversion/bin/Debug/netcoreapp2.2/inversion.pdb
+/Users/mo/workspace/csharp/inversion/obj/Debug/netcoreapp2.2/inversion.csprojAssemblyReference.cache
+/Users/mo/workspace/csharp/inversion/obj/Debug/netcoreapp2.2/inversion.csproj.CoreCompileInputs.cache
+/Users/mo/workspace/csharp/inversion/obj/Debug/netcoreapp2.2/inversion.AssemblyInfoInputs.cache
+/Users/mo/workspace/csharp/inversion/obj/Debug/netcoreapp2.2/inversion.AssemblyInfo.cs
+/Users/mo/workspace/csharp/inversion/obj/Debug/netcoreapp2.2/inversion.dll
+/Users/mo/workspace/csharp/inversion/obj/Debug/netcoreapp2.2/inversion.pdb
